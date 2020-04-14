@@ -1,0 +1,24 @@
+h2
+{
+    font-size: 120px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h5{
+
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+button
+{
+    background-color: white;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    border: 0px solid #555555;
+    text-align: center;
+}
+div
+{
+    text-align: center;
+}
